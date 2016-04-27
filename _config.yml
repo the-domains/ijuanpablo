@@ -1,0 +1,28 @@
+name: iJuanPablo
+favicon: null
+layout_spectrum: 0.2397676375694573
+typography_spectrum: 0.016500500962138176
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46632842416875064
+  lightness: 0.8235986134968698
+  saturation: 0.5125917219556868
+  rhythmicContrast: 0.197265500202775
+purpose: []
