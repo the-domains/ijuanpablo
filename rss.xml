@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[iJuanPablo]]></title>
         <description><![CDATA[iJuanPablo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ijuanpablo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:10:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 18:12:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ijuanpablo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Juan Pablo Urzúa Torres | LinkedIn]]></title>
+            <description><![CDATA[<article><h1>Juan Pablo Urzúa Torres | LinkedIn</h1><p>Software development, client applications, new features, project leader</p></article>]]></description>
+            <link>https://www.linkedin.com/in/juan-pablo-urz%C3%BAa-torres-38b38023?trk=nav_responsive_tab_profile</link>
+            <guid isPermaLink="false">2fa7f980-04d3-49b6-bd49-413ec851f34d</guid>
+            <pubDate>Wed, 27 Apr 2016 18:12:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi!</p>]]></description>
-            <link>undefinedhi/index.html</link>
+            <link>https://thegrid.ai/ijuanpablo/hi/index.html</link>
             <guid isPermaLink="false">447af782-3094-47b8-91d1-5c5269813d03</guid>
             <pubDate>Wed, 27 Apr 2016 18:10:21 GMT</pubDate>
         </item>
